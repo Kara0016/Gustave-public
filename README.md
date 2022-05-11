@@ -21,7 +21,7 @@ Les valeures peuvent être de plusieurs types l'exemple du dessus présente des 
 
 ```json
 {
-"identificateur": {
+"identificateur" {
   "Id1": "Val1",
   "Id2": "Val2"
   }
@@ -33,7 +33,7 @@ Des tableaux:
 
 ```json
 {
-"identificateur": [
+"identificateur" [
   "val1",
   "val2",
 ]
